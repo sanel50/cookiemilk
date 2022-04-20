@@ -12,6 +12,7 @@ public class Grocery {
 
         ArrayList<String> user = new ArrayList<String>();
 
+        System.out.println("Cookie and Milk");
 
         System.out.println("Please enter how many item you need to buy:");
         int howMany = userInput.nextInt();
