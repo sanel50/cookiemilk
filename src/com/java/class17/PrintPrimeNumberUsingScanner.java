@@ -2,7 +2,7 @@ package com.java.class17;
 
 import java.util.Scanner;
 
-public class PrintPrimeNumberFrom1to50 {
+public class PrintPrimeNumberUsingScanner {
 
     static boolean primeNumber(int num){
         boolean isPrime = true;
